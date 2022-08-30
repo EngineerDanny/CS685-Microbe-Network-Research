@@ -1,5 +1,5 @@
-# microbe-network-research
+# Microbe-network-research
 
-**FALL 2022 SCHEDULE**
+**Fall 2022 Schedule**
 
-WEEK 1 : 
+https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022#timeline-and-shedules

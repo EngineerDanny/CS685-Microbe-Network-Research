@@ -11,6 +11,6 @@
 
 - **Week 4**  : Review the existing conditional dependence methods and graphical models. 
 
-- **Week 5**  : Test the existing R packages which have been written to implement conditional dependence.
+- **Week 5**  : Test the existing R packages that implement conditional dependence.
 
 

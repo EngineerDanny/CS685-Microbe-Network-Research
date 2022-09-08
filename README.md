@@ -2,7 +2,7 @@
 
 - This repository is meant to track my progress for the network analysis methods research project.
 
-- These are methods are essential for studying microbial communities.
+- These are methods which are essential for studying microbial communities.
 
 - The table below showcase my personal timeTable and schedules for various semesters.
 

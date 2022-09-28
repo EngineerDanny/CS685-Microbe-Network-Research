@@ -6,7 +6,7 @@
 
 - **Week 2**  : Minor preview of the available correlation-based methods like SparCC, CCLasso, REBACCA, Correlation-Centric Network Command line tool and                   MENAP online tool. Find their corresponding R-packages (If they exist) and state the principle that they operate on.   
 
-- **Week 3**  : Research on existing R packages available on CRAN or Github or Biconductor that implement the conditional-dependence methods like SPIEC-EASI, MDiNE, MixMPLN, COZINE, etc
+- **Week 3**  : Research on existing R packages available on CRAN, Github or Bioconductor that implement the conditional-dependence methods like SPIEC-EASI, MDiNE, MixMPLN, COZINE, etc
 
 - **Week 4**  : Get all the publicly available microbiome composition datasets and make a table from it with columns, `Data name` , `Package` , `Source` , `Citation` , `No of Samples` and `No of Taxa`
 

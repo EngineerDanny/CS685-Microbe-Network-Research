@@ -4,7 +4,7 @@
 
 - These are methods which are essential for studying microbial communities.
 
-- The table below showcase my personal timeTable and schedules for various semesters.
+- The table below showcase my personal Time-Table and Schedules for various semesters.
 
 | Semester                     | Link        |
 | -----------                  | ----------- |

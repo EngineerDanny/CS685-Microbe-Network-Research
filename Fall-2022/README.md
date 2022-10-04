@@ -1,5 +1,5 @@
 
-**TIMELINE AND SHEDULES** 
+**TIMELINES AND SHEDULES** 
 ---
 
 - **[Week 1](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-1)**  : Review the main [research paper](https://doi.org/10.1016/j.csbj.2021.05.001). Make an initial literature review and powerpoint presentation from the paper.

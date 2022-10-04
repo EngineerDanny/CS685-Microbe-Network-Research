@@ -5,3 +5,8 @@ This is a table comparing the data analysis performed by each of the methods fro
 | SPIEC EASIE |                | SPIEC-EASIE                | Reliability, Hamming Distance |
 | COZINE      |                | COZINE, SPIEC-EASIE, ISING | Phylo Tree, Assortativity     |
 |             |                |                            |                               |
+
+
+
+
+- The **Consistent Accuracy** is measured by the Frobenius norm distance between the estimated correlation matrices of the first and second step.

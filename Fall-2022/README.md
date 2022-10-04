@@ -12,6 +12,6 @@
 
 - **[Week 5](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-5)**  : Review the SPIEC-EASI conditional-dependence method. Write a literature review of the [main paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226) and assess it with the state-of-the-art methods like the Standard Pearson Correlation, SparCC and CCREPE.
 
-- **[Week 6](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-6)**  : Test the existing R packages that implement conditional dependence.
+- **[Week 6](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-6)**  : General review of all the papers and make a table with columns `Paper`, `AlgorithmsCompared` and `How they compare`.
 
 

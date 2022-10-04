@@ -2,6 +2,6 @@ This is a table comparing the data analysis performed by each of the methods fro
 
 | Method      | Paper/Citation | Algorithms Compared        | How they compare              |
 |-------------|----------------|----------------------------|-------------------------------|
-| SPIEC EASIE |                | SPIEC-EASIE                | RELIABILITY, HAMMING DISTANCE |
-| COZINE      |                | COZINE, SPIEC-EASIE, ISING | PHYLO TREE, ASSORTATIVITY     |
+| SPIEC EASIE |                | SPIEC-EASIE                | Reliability, Hamming Distance |
+| COZINE      |                | COZINE, SPIEC-EASIE, ISING | Phylo Tree, Assortativity     |
 |             |                |                            |                               |

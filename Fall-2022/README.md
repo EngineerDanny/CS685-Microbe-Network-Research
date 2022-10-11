@@ -14,4 +14,4 @@
 
 - **[Week 6](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-6)**  : General review of all the papers and make a table with columns `Method`, `Research Paper`, `Algorithms Compared` and `How they compare`.
 
-
+- **[Week 7](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-7)**  : Write code for the **LASSO** method in Python or R for  matrix completion using the American Gut Data set.

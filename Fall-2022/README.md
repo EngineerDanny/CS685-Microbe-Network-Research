@@ -16,4 +16,4 @@
 
 - **[Week 7](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-7)**  : Write code for the **LASSO** method in Python or R for  matrix completion using the American Gut Data set.
 
-- **[Week 8](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-8)**  : Implement (p different models) with the **LASSO** algorithm and compare it to the Pearson Correlation method.
+- **[Week 8](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-8)**  : Implement (p different models) with the **LASSO** algorithm and compare it to the **Pearson Correlation** method.

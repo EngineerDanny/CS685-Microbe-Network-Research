@@ -10,14 +10,12 @@ amgut_data = pd.read_csv('amgut1_data.csv')
 # remove first empty column
 amgut_data = amgut_data.iloc[:, 1:]
 
-data_dict = {
-    "amgut1": (amgut_data.iloc[:, :-1].to_numpy(), amgut_data.iloc[:, -1].to_numpy()),
-}
+data_dict = {}
 
 total_row_nos = amgut_data.shape[0]
 for index in range( 1, total_row_nos-10):
     input_mat = amgut_data.iloc[:-index, :-1].to_numpy()
-    output_vec = amgut_data.iloc[:, -1].to_numpy()
+    output_vec = amgut_data.iloc[:-index, -1].to_numpy()
     data_dict[f"amgut{index+1}"] = (input_mat, output_vec)
 
 n_splits = 3

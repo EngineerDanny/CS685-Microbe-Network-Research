@@ -16,7 +16,7 @@
 
 - **[Week 7](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-7)**  : Write code for the **LASSO** method in Python or R for  matrix completion using the American Gut Data set.
 
-- **[Week 8](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-8)**  : Implement the LASSO method considering all the columns(p different models). For every iteration, predict one column(y) and make the other columns features(X). Then find the average for all the number of samples.
+- **[Week 8](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-8)**  : Implement the **LASSO** method considering all the columns(p different models). For every iteration, predict one column(y) and make the other columns features(X). Then find the `average test error` for each of the `number of samples`.
  
-- **[Week 9](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-9)**  : Compare the **LASSO** algorithm with the **Pearson Correlation** method. Plot a graph demonstrating the test error against the number of samples to show which of the methods is accurate.
+- **[Week 9](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-9)**  : Compare the **LASSO** algorithm with the **Pearson Correlation** method. Plot a graph demonstrating the `test error` against the `number of samples` to show which of the methods is accurate.
 

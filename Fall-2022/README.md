@@ -22,5 +22,5 @@
  
 - **[Week 10](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-10)**  : Compare the **LASSO** algorithm with the **Pearson Correlation** method. Plot a graph to show which of the methods is accurate.
 
-- **[Week 11](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-11)**  : Regularize the `Pearson Correlation Model` to find the optimal hyper-paramter to use. Different ways of training the `Pearson Correlation Model` ?.
+- **[Week 11](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-11)**  : Regularize the **Pearson Correlation Model** to find the optimal hyper-paramter(s) to use. Different ways of training the **Pearson Correlation Model**(Type 2 ?). log-transformed outputs? algorithm/test-squared-error for different real datasets?
 

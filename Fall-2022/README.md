@@ -24,5 +24,5 @@
 
 - **[Week 11](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-11)**  : Regularize the **Pearson Correlation Model** to find the optimal hyper-paramter(s) to use. Different ways of training the **Pearson Correlation Model**(Type 2 ?). 
 
-- **[Week 12_13](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-12)**  : Log-transformation and scaling of whole datasets. Testing different scaling methods for this sparse datasets. Running algorithm/mult-column test-error script for different real datasets.
+- **[Week 12_13](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week-12)**  : Log-transformation and scaling of whole datasets. Testing different scaling methods for this sparse datasets. Running algorithm/multi-column test-error script for different real datasets.
 

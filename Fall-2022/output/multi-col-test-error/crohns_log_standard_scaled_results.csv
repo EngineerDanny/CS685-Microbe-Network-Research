@@ -1,0 +1,481 @@
+Mean Squared Error,FoldID,# of Samples,Dataset,Index of Predicted Column,Algorithm
+0.4844348325032693,0,90,crohns,0,Featureless
+0.2574468827793171,0,90,crohns,0,Pearson Correlation
+0.3288836165130917,0,90,crohns,0,Pearson Correlation Type 2
+0.1318040387762495,0,90,crohns,0,LassoCV
+1.1469537361886917,1,90,crohns,0,Featureless
+0.6620371847614367,1,90,crohns,0,Pearson Correlation
+0.8419894500015898,1,90,crohns,0,Pearson Correlation Type 2
+0.3714414171595084,1,90,crohns,0,LassoCV
+1.3727966814961987,2,90,crohns,0,Featureless
+0.7071800466074054,2,90,crohns,0,Pearson Correlation
+0.9730730223151584,2,90,crohns,0,Pearson Correlation Type 2
+0.2927865780479833,2,90,crohns,0,LassoCV
+0.7925785761203632,0,80,crohns,2,Featureless
+0.7548214546354766,0,80,crohns,2,Pearson Correlation
+0.7822041562208241,0,80,crohns,2,Pearson Correlation Type 2
+0.6789642836092333,0,80,crohns,2,LassoCV
+1.1464643707443851,1,80,crohns,2,Featureless
+1.1446585443479302,1,80,crohns,2,Pearson Correlation
+1.2244962965002109,1,80,crohns,2,Pearson Correlation Type 2
+1.1420980025291962,1,80,crohns,2,LassoCV
+0.9130704757765906,2,80,crohns,2,Featureless
+0.9524613507864632,2,80,crohns,2,Pearson Correlation
+1.009344726643168,2,80,crohns,2,Pearson Correlation Type 2
+0.8935340043832676,2,80,crohns,2,LassoCV
+1.2377240012315809,0,30,crohns,2,Featureless
+1.091430764348725,0,30,crohns,2,Pearson Correlation
+1.1152295781212307,0,30,crohns,2,Pearson Correlation Type 2
+1.1035712254523633,0,30,crohns,2,LassoCV
+0.7607331116116517,1,30,crohns,2,Featureless
+0.7804775219355077,1,30,crohns,2,Pearson Correlation
+0.8436418803610689,1,30,crohns,2,Pearson Correlation Type 2
+0.7607331116116517,1,30,crohns,2,LassoCV
+0.953435287811697,2,30,crohns,2,Featureless
+0.8520562515341388,2,30,crohns,2,Pearson Correlation
+0.901316279836223,2,30,crohns,2,Pearson Correlation Type 2
+0.8495916136215482,2,30,crohns,2,LassoCV
+0.4242813378962204,0,50,crohns,1,Featureless
+0.2638126460655502,0,50,crohns,1,Pearson Correlation
+0.39251391742866,0,50,crohns,1,Pearson Correlation Type 2
+0.252964375547457,0,50,crohns,1,LassoCV
+1.5620529885433745,1,50,crohns,1,Featureless
+1.2515381448907468,1,50,crohns,1,Pearson Correlation
+1.3054733873886617,1,50,crohns,1,Pearson Correlation Type 2
+0.9184608278867183,1,50,crohns,1,LassoCV
+0.4278465933722157,2,50,crohns,1,Featureless
+0.2483754102414774,2,50,crohns,1,Pearson Correlation
+0.3817410577332817,2,50,crohns,1,Pearson Correlation Type 2
+0.263464854903405,2,50,crohns,1,LassoCV
+0.7209961234396077,0,80,crohns,3,Featureless
+0.59448656904272,0,80,crohns,3,Pearson Correlation
+0.6451497715255109,0,80,crohns,3,Pearson Correlation Type 2
+0.5483980474697208,0,80,crohns,3,LassoCV
+1.502002159912098,1,80,crohns,3,Featureless
+1.2790346349875794,1,80,crohns,3,Pearson Correlation
+1.3084579370970582,1,80,crohns,3,Pearson Correlation Type 2
+1.0608437897851044,1,80,crohns,3,LassoCV
+0.8734280005543597,2,80,crohns,3,Featureless
+0.8075476861485237,2,80,crohns,3,Pearson Correlation
+0.8975243487480937,2,80,crohns,3,Pearson Correlation Type 2
+0.8128967024162438,2,80,crohns,3,LassoCV
+1.0940295619580496,0,100,crohns,2,Featureless
+0.957987241995618,0,100,crohns,2,Pearson Correlation
+0.9843883605078898,0,100,crohns,2,Pearson Correlation Type 2
+0.7941726350177082,0,100,crohns,2,LassoCV
+0.9172323306613273,1,100,crohns,2,Featureless
+0.7999446891794022,1,100,crohns,2,Pearson Correlation
+0.8483120600472588,1,100,crohns,2,Pearson Correlation Type 2
+0.7627435183770612,1,100,crohns,2,LassoCV
+0.9940864799850152,2,100,crohns,2,Featureless
+0.8579999259733877,2,100,crohns,2,Pearson Correlation
+0.954023511127612,2,100,crohns,2,Pearson Correlation Type 2
+1.0360486090601713,2,100,crohns,2,LassoCV
+1.0637630987876785,0,20,crohns,2,Featureless
+0.9355684702078688,0,20,crohns,2,Pearson Correlation
+0.9982218674384148,0,20,crohns,2,Pearson Correlation Type 2
+1.0637630987876785,0,20,crohns,2,LassoCV
+1.079908042879257,1,20,crohns,2,Featureless
+1.0414017038388474,1,20,crohns,2,Pearson Correlation
+1.1211318243078667,1,20,crohns,2,Pearson Correlation Type 2
+1.229003140062229,1,20,crohns,2,LassoCV
+0.990684951629849,2,20,crohns,2,Featureless
+0.8819157801543852,2,20,crohns,2,Pearson Correlation
+0.9240120926427938,2,20,crohns,2,Pearson Correlation Type 2
+0.990684951629849,2,20,crohns,2,LassoCV
+1.2318036980723028,0,30,crohns,3,Featureless
+1.069815846673975,0,30,crohns,3,Pearson Correlation
+1.137359657446263,0,30,crohns,3,Pearson Correlation Type 2
+1.0609471680425078,0,30,crohns,3,LassoCV
+0.9213795532325696,1,30,crohns,3,Featureless
+0.8830722674043825,1,30,crohns,3,Pearson Correlation
+0.9282721437818188,1,30,crohns,3,Pearson Correlation Type 2
+0.9213795532325696,1,30,crohns,3,LassoCV
+1.6416571931292154,2,30,crohns,3,Featureless
+1.566522671146393,2,30,crohns,3,Pearson Correlation
+1.612267729164098,2,30,crohns,3,Pearson Correlation Type 2
+1.7546920312908818,2,30,crohns,3,LassoCV
+3.003321028622811,0,20,crohns,0,Featureless
+2.274644972693651,0,20,crohns,0,Pearson Correlation
+2.3578205925928306,0,20,crohns,0,Pearson Correlation Type 2
+1.8128356711675144,0,20,crohns,0,LassoCV
+1.3485759663329624,1,20,crohns,0,Featureless
+0.84550545143156,1,20,crohns,0,Pearson Correlation
+1.2464552555086537,1,20,crohns,0,Pearson Correlation Type 2
+0.9989892503941884,1,20,crohns,0,LassoCV
+0.7627645822187775,2,20,crohns,0,Featureless
+0.4924671964233533,2,20,crohns,0,Pearson Correlation
+0.5926259700184033,2,20,crohns,0,Pearson Correlation Type 2
+0.4913816829569613,2,20,crohns,0,LassoCV
+2.124044329759775,0,30,crohns,0,Featureless
+1.3836070461994634,0,30,crohns,0,Pearson Correlation
+1.580780423460644,0,30,crohns,0,Pearson Correlation Type 2
+0.8725275233909027,0,30,crohns,0,LassoCV
+0.8782038986162302,1,30,crohns,0,Featureless
+0.529386082081727,1,30,crohns,0,Pearson Correlation
+0.7632873306102989,1,30,crohns,0,Pearson Correlation Type 2
+0.3608249429882351,1,30,crohns,0,LassoCV
+0.691404198631856,2,30,crohns,0,Featureless
+0.5582515971887447,2,30,crohns,0,Pearson Correlation
+0.64763637355444,2,30,crohns,0,Pearson Correlation Type 2
+0.584666493708272,2,30,crohns,0,LassoCV
+0.5010979085788141,0,80,crohns,1,Featureless
+0.3227715485128861,0,80,crohns,1,Pearson Correlation
+0.4026447648271612,0,80,crohns,1,Pearson Correlation Type 2
+0.1750574656079719,0,80,crohns,1,LassoCV
+1.4290838467516442,1,80,crohns,1,Featureless
+0.8783267908913404,1,80,crohns,1,Pearson Correlation
+1.1351107148032356,1,80,crohns,1,Pearson Correlation Type 2
+0.4142002759783789,1,80,crohns,1,LassoCV
+0.6680031180980186,2,80,crohns,1,Featureless
+0.489406139842947,2,80,crohns,1,Pearson Correlation
+0.6225011281080396,2,80,crohns,1,Pearson Correlation Type 2
+0.2295883791815226,2,80,crohns,1,LassoCV
+0.8625381997011003,0,70,crohns,2,Featureless
+0.7543666190037358,0,70,crohns,2,Pearson Correlation
+0.7678835217900092,0,70,crohns,2,Pearson Correlation Type 2
+0.7027030698153425,0,70,crohns,2,LassoCV
+1.100921433560191,1,70,crohns,2,Featureless
+1.02878106284437,1,70,crohns,2,Pearson Correlation
+1.0681344575798115,1,70,crohns,2,Pearson Correlation Type 2
+1.0485363921947028,1,70,crohns,2,LassoCV
+0.8334746302672633,2,70,crohns,2,Featureless
+0.7756301912075626,2,70,crohns,2,Pearson Correlation
+0.82270078733564,2,70,crohns,2,Pearson Correlation Type 2
+0.7376070751455657,2,70,crohns,2,LassoCV
+0.2651678827293064,0,10,crohns,1,Featureless
+0.1949545130623512,0,10,crohns,1,Pearson Correlation
+0.2475424472795807,0,10,crohns,1,Pearson Correlation Type 2
+0.1451880843760364,0,10,crohns,1,LassoCV
+0.7139850446419849,1,10,crohns,1,Featureless
+0.4080313519796002,1,10,crohns,1,Pearson Correlation
+0.4957801860030628,1,10,crohns,1,Pearson Correlation Type 2
+0.3443131827411143,1,10,crohns,1,LassoCV
+0.5353976499949804,2,10,crohns,1,Featureless
+0.2324917810792358,2,10,crohns,1,Pearson Correlation
+0.343924813778756,2,10,crohns,1,Pearson Correlation Type 2
+0.3592248028568716,2,10,crohns,1,LassoCV
+1.0341843705941065,0,40,crohns,2,Featureless
+0.9576475650364848,0,40,crohns,2,Pearson Correlation
+0.9806593947520618,0,40,crohns,2,Pearson Correlation Type 2
+0.9509440970097296,0,40,crohns,2,LassoCV
+0.7644601941096,1,40,crohns,2,Featureless
+0.7752911474576384,1,40,crohns,2,Pearson Correlation
+0.81899382159949,1,40,crohns,2,Pearson Correlation Type 2
+0.7940280889462605,1,40,crohns,2,LassoCV
+0.9896368045937868,2,40,crohns,2,Featureless
+0.8709825282971616,2,40,crohns,2,Pearson Correlation
+0.9198262290614996,2,40,crohns,2,Pearson Correlation Type 2
+0.8395498830627444,2,40,crohns,2,LassoCV
+0.4398740156205908,0,10,crohns,0,Featureless
+0.4743880673494348,0,10,crohns,0,Pearson Correlation
+1.0457625815922282,0,10,crohns,0,Pearson Correlation Type 2
+0.8276592314832245,0,10,crohns,0,LassoCV
+3.252093855952868,1,10,crohns,0,Featureless
+1.6613728123891178,1,10,crohns,0,Pearson Correlation
+1.981618679890003,1,10,crohns,0,Pearson Correlation Type 2
+3.252093855952868,1,10,crohns,0,LassoCV
+1.8823359374036304,2,10,crohns,0,Featureless
+1.1131020479299638,2,10,crohns,0,Pearson Correlation
+1.371346690028022,2,10,crohns,0,Pearson Correlation Type 2
+1.8823359374036304,2,10,crohns,0,LassoCV
+1.2075794458880045,0,40,crohns,0,Featureless
+0.769140784930358,0,40,crohns,0,Pearson Correlation
+0.933568648197078,0,40,crohns,0,Pearson Correlation Type 2
+0.500051001120456,0,40,crohns,0,LassoCV
+0.7540035200550387,1,40,crohns,0,Featureless
+0.4516591509814841,1,40,crohns,0,Pearson Correlation
+0.5981539790563472,1,40,crohns,0,Pearson Correlation Type 2
+0.2097290556287064,1,40,crohns,0,LassoCV
+0.8915143628301062,2,40,crohns,0,Featureless
+0.6635920687467574,2,40,crohns,0,Pearson Correlation
+0.768869863346202,2,40,crohns,0,Pearson Correlation Type 2
+0.5014686615916536,2,40,crohns,0,LassoCV
+0.8629494718737905,0,60,crohns,0,Featureless
+0.5674854456144206,0,60,crohns,0,Pearson Correlation
+0.6387714253803985,0,60,crohns,0,Pearson Correlation Type 2
+0.3197554934831668,0,60,crohns,0,LassoCV
+0.6525033478682681,1,60,crohns,0,Featureless
+0.2857870694234927,1,60,crohns,0,Pearson Correlation
+0.743465132555948,1,60,crohns,0,Pearson Correlation Type 2
+0.3036426432318055,1,60,crohns,0,LassoCV
+1.2485182611165002,2,60,crohns,0,Featureless
+0.8421413197689784,2,60,crohns,0,Pearson Correlation
+0.9193483840789076,2,60,crohns,0,Pearson Correlation Type 2
+0.499184803491295,2,60,crohns,0,LassoCV
+0.7199689677377604,0,90,crohns,3,Featureless
+0.5540375868816041,0,90,crohns,3,Pearson Correlation
+0.5941012933313797,0,90,crohns,3,Pearson Correlation Type 2
+0.4887997580025087,0,90,crohns,3,LassoCV
+0.8519663394013292,1,90,crohns,3,Featureless
+0.6841531659491603,1,90,crohns,3,Pearson Correlation
+0.7370318098105916,1,90,crohns,3,Pearson Correlation Type 2
+0.6118920265814825,1,90,crohns,3,LassoCV
+1.4244529072603165,2,90,crohns,3,Featureless
+1.289328726641133,2,90,crohns,3,Pearson Correlation
+1.3673533736396746,2,90,crohns,3,Pearson Correlation Type 2
+1.3024137521897208,2,90,crohns,3,LassoCV
+1.047745917922269,0,90,crohns,2,Featureless
+0.946176826208444,0,90,crohns,2,Pearson Correlation
+0.9608532159451132,0,90,crohns,2,Pearson Correlation Type 2
+0.874789922890009,0,90,crohns,2,LassoCV
+0.8280213562601664,1,90,crohns,2,Featureless
+0.7490541675372538,1,90,crohns,2,Pearson Correlation
+0.7730891550598799,1,90,crohns,2,Pearson Correlation Type 2
+0.6675533543227148,1,90,crohns,2,LassoCV
+0.9355711506098148,2,90,crohns,2,Featureless
+0.883311623618391,2,90,crohns,2,Pearson Correlation
+0.9880152667152696,2,90,crohns,2,Pearson Correlation Type 2
+1.1354462580098623,2,90,crohns,2,LassoCV
+0.4468627583519372,0,90,crohns,1,Featureless
+0.2325400275923879,0,90,crohns,1,Pearson Correlation
+0.3025790556611365,0,90,crohns,1,Pearson Correlation Type 2
+0.1074306934194233,0,90,crohns,1,LassoCV
+1.010770382709555,1,90,crohns,1,Featureless
+0.6036390264696545,1,90,crohns,1,Pearson Correlation
+0.7900441992599031,1,90,crohns,1,Pearson Correlation Type 2
+0.3337090347378699,1,90,crohns,1,LassoCV
+1.4030689203709106,2,90,crohns,1,Featureless
+0.8470023504366644,2,90,crohns,1,Pearson Correlation
+1.0412397428088636,2,90,crohns,1,Pearson Correlation Type 2
+0.3538167436883285,2,90,crohns,1,LassoCV
+1.7750638029721462,0,30,crohns,1,Featureless
+1.1769863066062969,0,30,crohns,1,Pearson Correlation
+1.3711515331182114,0,30,crohns,1,Pearson Correlation Type 2
+0.7210182463547863,0,30,crohns,1,LassoCV
+1.0184317458161327,1,30,crohns,1,Featureless
+0.8178110441490205,1,30,crohns,1,Pearson Correlation
+0.9298169142082314,1,30,crohns,1,Pearson Correlation Type 2
+0.5299303958723787,1,30,crohns,1,LassoCV
+0.32658018305029,2,30,crohns,1,Featureless
+0.1863788853932108,2,30,crohns,1,Pearson Correlation
+0.2988285896249376,2,30,crohns,1,Pearson Correlation Type 2
+0.61124034063983,2,30,crohns,1,LassoCV
+0.1406965699643159,0,10,crohns,3,Featureless
+0.5329790120801292,0,10,crohns,3,Pearson Correlation
+0.8540101361529401,0,10,crohns,3,Pearson Correlation Type 2
+1.0929139543840585,0,10,crohns,3,LassoCV
+2.115383257198978,1,10,crohns,3,Featureless
+1.4211132466295808,1,10,crohns,3,Pearson Correlation
+1.5120534566412116,1,10,crohns,3,Pearson Correlation Type 2
+2.115383257198978,1,10,crohns,3,LassoCV
+2.4573136169026544,2,10,crohns,3,Featureless
+1.7573760023103775,2,10,crohns,3,Pearson Correlation
+1.7856508657521657,2,10,crohns,3,Pearson Correlation Type 2
+2.4573136169026544,2,10,crohns,3,LassoCV
+0.7812032558134517,0,70,crohns,3,Featureless
+0.6632500080330997,0,70,crohns,3,Pearson Correlation
+0.6817211170403875,0,70,crohns,3,Pearson Correlation Type 2
+0.5633696619882983,0,70,crohns,3,LassoCV
+0.8296137374922417,1,70,crohns,3,Featureless
+0.7579673293546507,1,70,crohns,3,Pearson Correlation
+0.81982825504683,1,70,crohns,3,Pearson Correlation Type 2
+0.7818573920178317,1,70,crohns,3,LassoCV
+0.9757192267492356,2,70,crohns,3,Featureless
+0.8984369924454559,2,70,crohns,3,Pearson Correlation
+0.9340382505699684,2,70,crohns,3,Pearson Correlation Type 2
+0.8351183086701396,2,70,crohns,3,LassoCV
+0.6553191117425864,0,70,crohns,0,Featureless
+0.3156968001854902,0,70,crohns,0,Pearson Correlation
+0.4431772900005329,0,70,crohns,0,Pearson Correlation Type 2
+0.1346575321715278,0,70,crohns,0,LassoCV
+1.628431568223991,1,70,crohns,0,Featureless
+0.8951579901568383,1,70,crohns,0,Pearson Correlation
+1.2083557646100498,1,70,crohns,0,Pearson Correlation Type 2
+0.4577760577538884,1,70,crohns,0,LassoCV
+0.7419188765695154,2,70,crohns,0,Featureless
+0.5003497000492326,2,70,crohns,0,Pearson Correlation
+0.6101918032109923,2,70,crohns,0,Pearson Correlation Type 2
+0.2863240562910854,2,70,crohns,0,LassoCV
+0.8915773126945297,0,40,crohns,3,Featureless
+0.8137827834358182,0,40,crohns,3,Pearson Correlation
+0.8693270785204232,0,40,crohns,3,Pearson Correlation Type 2
+0.8189316852274638,0,40,crohns,3,LassoCV
+0.7848283212196223,1,40,crohns,3,Featureless
+0.7239073690601528,1,40,crohns,3,Pearson Correlation
+0.7558399960713972,1,40,crohns,3,Pearson Correlation Type 2
+0.7848283212196223,1,40,crohns,3,LassoCV
+1.382192113081921,2,40,crohns,3,Featureless
+1.303125416840658,2,40,crohns,3,Pearson Correlation
+1.3345889328575933,2,40,crohns,3,Pearson Correlation Type 2
+1.263644778574895,2,40,crohns,3,LassoCV
+0.8805553359647594,0,50,crohns,2,Featureless
+0.8196023716893299,0,50,crohns,2,Pearson Correlation
+0.8312800213317476,0,50,crohns,2,Pearson Correlation Type 2
+0.8805553359647594,0,50,crohns,2,LassoCV
+0.949221953614908,1,50,crohns,2,Featureless
+0.9675674053726538,1,50,crohns,2,Pearson Correlation
+1.0638148315192428,1,50,crohns,2,Pearson Correlation Type 2
+1.2382951215250353,1,50,crohns,2,LassoCV
+0.9008644699478184,2,50,crohns,2,Featureless
+0.8044195961153787,2,50,crohns,2,Pearson Correlation
+0.8247567803815073,2,50,crohns,2,Pearson Correlation Type 2
+0.9008644699478184,2,50,crohns,2,LassoCV
+0.9503843927399108,0,20,crohns,3,Featureless
+0.7392780479000287,0,20,crohns,3,Pearson Correlation
+0.8311017859336922,0,20,crohns,3,Pearson Correlation Type 2
+0.9503843927399108,0,20,crohns,3,LassoCV
+1.295494163238091,1,20,crohns,3,Featureless
+1.3042896624043585,1,20,crohns,3,Pearson Correlation
+1.4260437012107516,1,20,crohns,3,Pearson Correlation Type 2
+1.490654002829416,1,20,crohns,3,LassoCV
+1.5609997309679562,2,20,crohns,3,Featureless
+1.4391741543154757,2,20,crohns,3,Pearson Correlation
+1.477582479281436,2,20,crohns,3,Pearson Correlation Type 2
+1.5609997309679562,2,20,crohns,3,LassoCV
+0.7881794852122237,0,20,crohns,1,Featureless
+0.40082610547302,0,20,crohns,1,Pearson Correlation
+0.5844174021304481,0,20,crohns,1,Pearson Correlation Type 2
+0.7881794852122237,0,20,crohns,1,LassoCV
+0.7569267028259336,1,20,crohns,1,Featureless
+0.612985418157359,1,20,crohns,1,Pearson Correlation
+0.6867826319347546,1,20,crohns,1,Pearson Correlation Type 2
+0.5180788992993833,1,20,crohns,1,LassoCV
+0.3642087989768365,2,20,crohns,1,Featureless
+0.2669965358175247,2,20,crohns,1,Pearson Correlation
+0.3124112858610778,2,20,crohns,1,Pearson Correlation Type 2
+0.2077806145984404,2,20,crohns,1,LassoCV
+0.6042608998088561,0,100,crohns,0,Featureless
+0.3671463187289765,0,100,crohns,0,Pearson Correlation
+0.5303262466000183,0,100,crohns,0,Pearson Correlation Type 2
+0.2496643726913447,0,100,crohns,0,LassoCV
+1.5991693468444963,1,100,crohns,0,Featureless
+0.9632762720604184,1,100,crohns,0,Pearson Correlation
+1.1141672414465094,1,100,crohns,0,Pearson Correlation Type 2
+0.3760896445286127,1,100,crohns,0,LassoCV
+0.8797282846593752,2,100,crohns,0,Featureless
+0.4855249326296095,2,100,crohns,0,Pearson Correlation
+0.6785246448149834,2,100,crohns,0,Pearson Correlation Type 2
+0.2728124837345188,2,100,crohns,0,LassoCV
+0.6862768410378779,0,100,crohns,3,Featureless
+0.5648958966732566,0,100,crohns,3,Pearson Correlation
+0.628256287852956,0,100,crohns,3,Pearson Correlation Type 2
+0.4779062498605579,0,100,crohns,3,LassoCV
+1.1152985763998622,1,100,crohns,3,Featureless
+0.901119843470286,1,100,crohns,3,Pearson Correlation
+0.9513521904230214,1,100,crohns,3,Pearson Correlation Type 2
+0.9146293340777384,1,100,crohns,3,LassoCV
+1.2588804888656528,2,100,crohns,3,Featureless
+1.151158406689865,2,100,crohns,3,Pearson Correlation
+1.216681962874269,2,100,crohns,3,Pearson Correlation Type 2
+1.1384445782743786,2,100,crohns,3,LassoCV
+1.274542821835934,0,10,crohns,2,Featureless
+1.299369631859998,0,10,crohns,2,Pearson Correlation
+1.3430388506657736,0,10,crohns,2,Pearson Correlation Type 2
+1.36133422213549,0,10,crohns,2,LassoCV
+1.164917829763434,1,10,crohns,2,Featureless
+1.0050798498101057,1,10,crohns,2,Pearson Correlation
+1.100883207398899,1,10,crohns,2,Pearson Correlation Type 2
+1.164917829763434,1,10,crohns,2,LassoCV
+1.916145689290652,2,10,crohns,2,Featureless
+1.4315898448141142,2,10,crohns,2,Pearson Correlation
+1.4900272039290268,2,10,crohns,2,Pearson Correlation Type 2
+1.8169559836823916,2,10,crohns,2,LassoCV
+0.4826929955960515,0,80,crohns,0,Featureless
+0.2998799945366554,0,80,crohns,0,Pearson Correlation
+0.3983155518311544,0,80,crohns,0,Pearson Correlation Type 2
+0.1594858128680763,0,80,crohns,0,LassoCV
+1.5772666953420638,1,80,crohns,0,Featureless
+0.992973189023272,1,80,crohns,0,Pearson Correlation
+1.2042994243008074,1,80,crohns,0,Pearson Correlation Type 2
+0.4327060493578613,1,80,crohns,0,LassoCV
+0.6665730083888223,2,80,crohns,0,Featureless
+0.4429983227418853,2,80,crohns,0,Pearson Correlation
+0.6085233835644602,2,80,crohns,0,Pearson Correlation Type 2
+0.2276151703423451,2,80,crohns,0,LassoCV
+0.547455553299059,0,60,crohns,1,Featureless
+0.3078095747876945,0,60,crohns,1,Pearson Correlation
+0.441025930731693,0,60,crohns,1,Pearson Correlation Type 2
+0.2529130794144439,0,60,crohns,1,LassoCV
+1.3813384645438955,1,60,crohns,1,Featureless
+1.109610469496956,1,60,crohns,1,Pearson Correlation
+1.1930721691060644,1,60,crohns,1,Pearson Correlation Type 2
+0.6875456841374572,1,60,crohns,1,LassoCV
+0.6657213523734936,2,60,crohns,1,Featureless
+0.3149649116111929,2,60,crohns,1,Pearson Correlation
+0.538447730663779,2,60,crohns,1,Pearson Correlation Type 2
+0.3678656048820513,2,60,crohns,1,LassoCV
+0.8055013809652232,0,60,crohns,2,Featureless
+0.6827367371308001,0,60,crohns,2,Pearson Correlation
+0.6970139816703368,0,60,crohns,2,Pearson Correlation Type 2
+0.6411751754077969,0,60,crohns,2,LassoCV
+1.1267981850777375,1,60,crohns,2,Featureless
+1.05276678577012,1,60,crohns,2,Pearson Correlation
+1.127382362751003,1,60,crohns,2,Pearson Correlation Type 2
+1.0653788739694674,1,60,crohns,2,LassoCV
+0.9099722265796412,2,60,crohns,2,Featureless
+0.7832975797167945,2,60,crohns,2,Pearson Correlation
+0.8251509824271754,2,60,crohns,2,Pearson Correlation Type 2
+0.8580814709163537,2,60,crohns,2,LassoCV
+0.6956151960445445,0,60,crohns,3,Featureless
+0.5809902328657747,0,60,crohns,3,Pearson Correlation
+0.6006450316385575,0,60,crohns,3,Pearson Correlation Type 2
+0.5565393175014052,0,60,crohns,3,LassoCV
+0.7095891840702214,1,60,crohns,3,Featureless
+0.9277201947578152,1,60,crohns,3,Pearson Correlation
+1.0325570407076468,1,60,crohns,3,Pearson Correlation Type 2
+0.8314171497705439,1,60,crohns,3,LassoCV
+1.1279613011241412,2,60,crohns,3,Featureless
+1.0086758258302924,2,60,crohns,3,Pearson Correlation
+1.0380306080485782,2,60,crohns,3,Pearson Correlation Type 2
+0.9658950105901466,2,60,crohns,3,LassoCV
+0.7835643939522193,0,70,crohns,1,Featureless
+0.4877163216067635,0,70,crohns,1,Pearson Correlation
+0.5689145404839987,0,70,crohns,1,Pearson Correlation Type 2
+0.198041634322621,0,70,crohns,1,LassoCV
+1.706505356717882,1,70,crohns,1,Featureless
+1.0946130757344752,1,70,crohns,1,Pearson Correlation
+1.3048345293646544,1,70,crohns,1,Pearson Correlation Type 2
+0.5272041617703611,1,70,crohns,1,LassoCV
+0.5126075430352358,2,70,crohns,1,Featureless
+0.3086205885380221,2,70,crohns,1,Pearson Correlation
+0.4359193870164767,2,70,crohns,1,Pearson Correlation Type 2
+0.234169035951019,2,70,crohns,1,LassoCV
+0.7747990288022327,0,50,crohns,0,Featureless
+0.5764658903093396,0,50,crohns,0,Pearson Correlation
+0.6399616590062,0,50,crohns,0,Pearson Correlation Type 2
+0.3619211590583887,0,50,crohns,0,LassoCV
+0.908188130359606,1,50,crohns,0,Featureless
+0.3504807561100345,1,50,crohns,0,Pearson Correlation
+0.7685761472478574,1,50,crohns,0,Pearson Correlation Type 2
+0.2138191911004725,1,50,crohns,0,LassoCV
+0.8360620201140365,2,50,crohns,0,Featureless
+0.6163857854809698,2,50,crohns,0,Pearson Correlation
+0.6778517594464551,2,50,crohns,0,Pearson Correlation Type 2
+0.4526208157090778,2,50,crohns,0,LassoCV
+0.7607553084806631,0,100,crohns,1,Featureless
+0.5416588723847808,0,100,crohns,1,Pearson Correlation
+0.6445522294615951,0,100,crohns,1,Pearson Correlation Type 2
+0.3104165910895026,0,100,crohns,1,LassoCV
+1.3402996308148076,1,100,crohns,1,Featureless
+0.7154190398303067,1,100,crohns,1,Pearson Correlation
+0.9702203625020944,1,100,crohns,1,Pearson Correlation Type 2
+0.3180094385691495,1,100,crohns,1,LassoCV
+0.9311680472622954,2,100,crohns,1,Featureless
+0.5966655958885505,2,100,crohns,1,Pearson Correlation
+0.7470356948596755,2,100,crohns,1,Pearson Correlation Type 2
+0.3208259593274281,2,100,crohns,1,LassoCV
+0.6840507249385197,0,50,crohns,3,Featureless
+0.5982545210333181,0,50,crohns,3,Pearson Correlation
+0.6100916200087401,0,50,crohns,3,Pearson Correlation Type 2
+0.6840507249385197,0,50,crohns,3,LassoCV
+1.098030129610169,1,50,crohns,3,Featureless
+1.2659219705871672,1,50,crohns,3,Pearson Correlation
+1.3355555778785426,1,50,crohns,3,Pearson Correlation Type 2
+1.34679148161419,1,50,crohns,3,LassoCV
+1.0869379284349052,2,50,crohns,3,Featureless
+1.0195029219357388,2,50,crohns,3,Pearson Correlation
+1.037532962912737,2,50,crohns,3,Pearson Correlation Type 2
+1.0564264055338244,2,50,crohns,3,LassoCV
+1.1472090330137157,0,40,crohns,1,Featureless
+0.7861636231666322,0,40,crohns,1,Pearson Correlation
+0.9237028704403372,0,40,crohns,1,Pearson Correlation Type 2
+0.428495055304761,0,40,crohns,1,LassoCV
+0.8242789990193427,1,40,crohns,1,Featureless
+0.5961070781432961,1,40,crohns,1,Pearson Correlation
+0.6904477523149358,1,40,crohns,1,Pearson Correlation Type 2
+0.3298550897814,1,40,crohns,1,LassoCV
+0.5529369055993558,2,40,crohns,1,Featureless
+0.3496669112471041,2,40,crohns,1,Pearson Correlation
+0.4834410981121055,2,40,crohns,1,Pearson Correlation Type 2
+0.3239689608418305,2,40,crohns,1,LassoCV

@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error
 import plotnine as p9
 
 
-amgut_data = pd.read_csv('./code/amgut1_data.csv')
+amgut_data = pd.read_csv('amgut1_data.csv')
 # remove first column
 amgut_data = amgut_data.iloc[:, 1:]
 

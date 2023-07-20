@@ -1,4 +1,6 @@
-# Microbe-network-research
+# Microbe-Network-Research
+
+- Code for the project is available in this [repository](https://github.com/EngineerDanny/CS685-Microbe-Network-Research-Code).
 
 - This repository is meant to track my progress for the network analysis methods research project.
 
@@ -8,5 +10,5 @@
 
 | Semester                     | Link        |
 | -----------                  | ----------- |
-| **Fall 2022**                | https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022#timeline-and-shedules       |
-| **Spring 2023**                | https://github.com/EngineerDanny/microbe-network-research/tree/main/Spring-2023#timeline-and-shedules       |
+| **Fall 2022**                | https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022#timeline-and-shedules    |
+| **Spring 2023**              | https://github.com/EngineerDanny/microbe-network-research/tree/main/Spring-2023#timeline-and-shedules  |

@@ -1,1 +1,3 @@
 ## Next steps in my research is to review some of the papers related to difference network models
+
+The analysis presented in this paper is designed to test for differences in co-occurrence patterns at the community level across ecosystems, identify modules of co-occurring microorganisms within communities, and identify pairwise co-occurrence patterns within modules that are consistent across ecosystems

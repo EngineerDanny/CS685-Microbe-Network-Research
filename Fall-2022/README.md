@@ -2,9 +2,15 @@
 **TIMELINES AND SHEDULES** 
 ---
 
-- **[Week 1](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_1_literature_review)**  : Review the main [research paper](https://doi.org/10.1016/j.csbj.2021.05.001). Make an initial literature review and powerpoint presentation from the paper.
+## Week 1
+Review the main [research paper](https://doi.org/10.1016/j.csbj.2021.05.001). 
 
-- **[Week 2](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_2_correlation_methods)**  : Minor preview of the available correlation-based methods like SparCC, CCLasso, REBACCA, Correlation-Centric Network Command line tool and MENAP online tool. Find their corresponding R-packages (If they exist) and state the principle that they operate on.
+Make an initial literature review and powerpoint presentation from the paper.
+
+## Week 2
+Minor preview of the available correlation-based methods like SparCC, CCLasso, REBACCA, Correlation-Centric Network Command line tool and MENAP online tool. 
+
+Find their corresponding R-packages (If they exist) and state the principle that they operate on.
 
 | Correlation Based Method | SparCC (2012)                                                                  | CCLasso (2015)                                       | REBACCA (2015)                                                                                                                            | CoNet (2016)                                                                                                        | Meta-Network (2019)                                                                                            |
 |--------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
@@ -14,7 +20,8 @@
 | **Link to Data**             | No data available                                                              | No data available                                    | No data available                                                                                                                         | No data available                                                                                                   | [data](https://github.com/guido-s/netmeta/tree/develop/data)                                                           |
 
 
-- **[Week 3](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_3_conditional_dependence_methods)**  : Research on existing R packages available on CRAN, Github or Bioconductor that implement the conditional-dependence methods like SPIEC-EASI, MDiNE, MixMPLN, COZINE, etc
+## Week 3
+Research on existing R packages available on CRAN, Github or Bioconductor that implement the conditional-dependence methods like SPIEC-EASI, MDiNE, MixMPLN, COZINE, etc
 
 | Conditional Dependence Method | R package                                            | Principle                                                                                                           | Link to Data                                            |
 |-------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
@@ -30,7 +37,8 @@
 
 
 
-- **[Week 4](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_4_publicly_available_datasets)**  : Get all the publicly available microbiome composition datasets and make a table from it with columns, `Data name` , `Package` , `Source` , `Citation` , `No of Samples` and `No of Taxa`
+## Week 4 
+Get all the publicly available microbiome composition datasets and make a table from it with columns, `Data name` , `Package` , `Source` , `Citation` , `No of Samples` and `No of Taxa`
 
                   PUBLICLY AVAILABLE MICROBIOME COMPOSITION DATASETS
 
@@ -52,9 +60,12 @@
 | iOraldat            | COZINE     | [iOraldat.rda](https://github.com/MinJinHa/COZINE/blob/master/data/iOraldat.rda)                  | [biomedcentral.com/articles/10.1186](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03911-w) | ```nrow(iOraldat) = 86```                   | ```ncol(iOraldat) = 63```                    |
 
 
-- **[Week 5](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_5_amgut1_pearson_corr)**  : Review the SPIEC-EASI conditional-dependence method. Write a literature review of the [main paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226) and assess it with the state-of-the-art methods like the Standard Pearson Correlation, SparCC and CCREPE.
+## Week 5
+Review the SPIEC-EASI conditional-dependence method. 
 
-## Literature Review of [Sparse and Compositionally Robust Inference of Microbial Ecological Networks (SPIEC-EASI)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226#pcbi.1004226.s011)
+Write a literature review of the [main paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226) and assess it with the state-of-the-art methods like the Standard Pearson Correlation, SparCC and CCREPE.
+
+### Literature Review of [Sparse and Compositionally Robust Inference of Microbial Ecological Networks (SPIEC-EASI)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226#pcbi.1004226.s011)
 
 ### Background
 **SPIEC-EASI** is a statistical method which aims at inferring microbial ecological networks. It infers these networks from amplicon sequencing datasets. Abundances of the Operational Taxonomic Unit (OTU) are composed of several elements. This makes using traditional methods like correlation to infer networks lead to false results. With Microbial sequencing-based studies, only a few OTUs are measured on several samples. This makes additional information or assumption very essential for inference of microbial networks accurately. SPIEC EASI is a conditionally dependent method which assumes that ecological networks are sparse. 
@@ -96,13 +107,9 @@ SPIEC-EASI produced more consistent and sparser interaction networks than SparCC
 - Statistical methods to infer which taxa are responsive to design factors in 16S gene amplicon studies could also be researched.
 - Inference of taxa responses from 16S rRNA gene sequencing datasets could be studied and improved.
 
-### Reference
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226#pcbi.1004226.s011
 
-
-
-
-- **[Week 6](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_6_data_analysis_comparison)**  : General review of all the papers and make a table with columns `Method`, `Research Paper`, `Algorithms Compared` and `How they compare`.
+## Week 6
+General review of all the papers and make a table with columns `Method`, `Research Paper`, `Algorithms Compared` and `How they compare`.
 
 This is a table comparing the data analysis performed by each of the methods from the various papers.
 
@@ -121,16 +128,36 @@ This is a table comparing the data analysis performed by each of the methods fro
 | NetCoMi     | [academic.oup-6017455](https://academic.oup.com/bib/article/22/4/bbaa290/6017455)                                                                                                                              | SparCC, SPIEC-EASI, SPRING                                | Variability of microbial networks between the association estimation methods, Aitchison’s distance (Euclidean distance between clr-transformed compositions) between taxas for constructing sample similarity networks.                                                                                                                                                                     | Sub-sample analysis         |
 
 
+## Week 7
+Write code for the **LASSO** method in Python or R for  matrix completion using the American Gut Data set.
 
-- **[Week 7](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_7_amgut1_lassocv)**  : Write code for the **LASSO** method in Python or R for  matrix completion using the American Gut Data set.
 
-- **[Week 8](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_8_amgut1_amgut1_lassocv_update)**  : Implement the **LASSO** method considering all the columns(p different models). For every iteration, predict one column(y) and make the other columns features(X). Then find the `average test error` for each of the `number of samples`.
+## Week 8
+Implement the **LASSO** method considering all the columns(p different models). 
 
-- **[Week 9](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_9_algo_comparison)**  : Implement the **Pearson Correlation** method. Plot a graph demonstrating the `test error` against the `number of samples`.
+For every iteration, predict one column(y) and make the other columns features(X). 
+
+Then find the `average test error` for each of the `number of samples`.
+
+## Week 9
+Implement the **Pearson Correlation** method. 
+
+Plot a graph demonstrating the `test error` against the `number of samples`.
  
-- **[Week 10](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_10_algo_comparison_update)**  : Compare the **LASSO** algorithm with the **Pearson Correlation** method. Plot a graph to show which of the methods is accurate.
+ ## Week 10
+Compare the **LASSO** algorithm with the **Pearson Correlation** method. 
 
-- **[Week 11](https://github.com/EngineerDanny/microbe-network-research/tree/main/Fall-2022/week_11_model_complexity)**  : Regularize the **Pearson Correlation Model** to find the optimal hyper-paramter(s) to use. Different ways of training the **Pearson Correlation Model**(Type 2 ?). 
+Plot a graph to show which of the methods is accurate.
 
-- **Week 12_13** : Log-transformation and scaling of whole datasets. Testing different scaling methods for this sparse datasets. Running algorithm/multi-column test-error script for different real datasets.
+## Week 11
+Regularize the **Pearson Correlation Model** to find the optimal hyper-paramter(s) to use. 
+
+Different ways of training the **Pearson Correlation Model**(Type 2 ?). 
+
+## Week 12_12
+Log-transformation and scaling of whole datasets. 
+
+Testing different scaling methods for this sparse datasets. 
+
+Running algorithm/multi-column test-error script for different real datasets.
 

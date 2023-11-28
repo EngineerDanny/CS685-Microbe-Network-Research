@@ -21,3 +21,7 @@ We first visualized networks within each ecosystem for both positive and negativ
 POWER-FUNCTION RELATIONSHIPS BETWEEN NODE DEGREE AND BETWEENNESS. Figures represent the power-function relationships between node degree and betweenness for microbial orders and families within each ecosystem at the 0.5 correlation level. Scales are log transformed. Each best-fit line represents the predicted values seen in Supplementary Table 4 for each correlation cutoff.
 
 ![image](https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/Fall-2023/fmicb-05-00358-g003.jpg)
+
+### 2. [Using null models to infer microbial co-occurrence networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176751)
+
+### 3. [MDiNE: a model to estimate differential co-occurrence networks in microbiome studies](https://academic.oup.com/bioinformatics/article/36/6/1840/5614428)

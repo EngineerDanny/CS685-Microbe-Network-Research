@@ -27,3 +27,9 @@ POWER-FUNCTION RELATIONSHIPS BETWEEN NODE DEGREE AND BETWEENNESS. Figures repres
 ### 3. [MDiNE: a model to estimate differential co-occurrence networks in microbiome studies](https://academic.oup.com/bioinformatics/article/36/6/1840/5614428)
 
 The Joint Graphical LASSO was proposed as a solution in the case of Gaussian data (Danaher et al., 2014).
+
+Non-parametric method for differential network estimation was proposed by Zhao et al. (2014). In this algorithm, the difference in precision matrices is modeled directly, whereas the precision matrix within each group is not explicitly estimated. 
+
+Microbiome Differential Network Estimation (MDiNE, pronounced ‘em-dine’), capable of estimating separate taxa co-occurrence networks for groups defined by a binary variable. 
+
+compare the performance of MDiNE against two precision matrix-based methods: SPIEC-EASI and MInt. 

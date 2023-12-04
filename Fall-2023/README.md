@@ -32,4 +32,4 @@ Non-parametric method for differential network estimation was proposed by Zhao e
 
 Microbiome Differential Network Estimation (MDiNE, pronounced ‘em-dine’), capable of estimating separate taxa co-occurrence networks for groups defined by a binary variable. 
 
-compare the performance of MDiNE against two precision matrix-based methods: SPIEC-EASI and MInt. 
+compare the performance of MDiNE against two precision matrix-based methods: SPIEC-EASI and MInt.

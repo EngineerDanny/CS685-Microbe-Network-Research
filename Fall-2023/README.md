@@ -35,12 +35,14 @@ Microbiome Differential Network Estimation (MDiNE, pronounced ‘em-dine’), ca
 compare the performance of MDiNE against two precision matrix-based methods: SPIEC-EASI and MInt.
 
 ![image](https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/Fall-2023/bioinformatics_36_6_1840_f4.jpeg)
+
 Estimated co-occurrence from MDiNE at the family level in control (left) and Crohn’s (right) samples. 
 An edge is displayed if its 90% credible interval does not contain zero. 
 The size of a node represents its relative abundance. 
 The placement of the nodes is based on multidimensional scaling of the precision matrix in the Crohn’s samples
 
 ![image](https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/Fall-2023/bioinformatics_36_6_1840_f5.jpeg)
+
 Network differences between Crohn’s and control samples. 
 An edge is shown when the co-occurrence between a pair of taxa differs significantly between the two groups based on the 90% credible interval. 
 Colors show whether family abundance is higher in Crohn’s or in control samples. 

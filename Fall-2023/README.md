@@ -25,3 +25,5 @@ POWER-FUNCTION RELATIONSHIPS BETWEEN NODE DEGREE AND BETWEENNESS. Figures repres
 ### 2. [Using null models to infer microbial co-occurrence networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176751)
 
 ### 3. [MDiNE: a model to estimate differential co-occurrence networks in microbiome studies](https://academic.oup.com/bioinformatics/article/36/6/1840/5614428)
+
+The Joint Graphical LASSO was proposed as a solution in the case of Gaussian data (Danaher et al., 2014).

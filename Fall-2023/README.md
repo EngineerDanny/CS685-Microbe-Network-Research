@@ -47,3 +47,11 @@ Network differences between Crohn’s and control samples.
 An edge is shown when the co-occurrence between a pair of taxa differs significantly between the two groups based on the 90% credible interval. 
 Colors show whether family abundance is higher in Crohn’s or in control samples. 
 (Color version of this figure is available at Bioinformatics online.)
+
+### 4. DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays
+Data Integration Analysis for Biomarker discovery using Latent cOmponents (DIABLO):  
+Multi-omics data refers to the data from different molecular levels, such as the genome, transcriptome, proteome, epigenome, metabolome, and microbiome.
+The goal of using multi-omics data is to achieve a deeper understanding of biological mechanisms by integrating multiple types of omics data.
+Multi-omics integrative method that seeks for common information across different data types through the selection of a subset of molecular features, while discriminating between multiple phenotypic groups.
+DIABLO identifies key molecular features from multi-omics data that are associated with a phenotype of interest, such as disease or response to therapy.
+

@@ -55,3 +55,7 @@ The goal of using multi-omics data is to achieve a deeper understanding of biolo
 Multi-omics integrative method that seeks for common information across different data types through the selection of a subset of molecular features, while discriminating between multiple phenotypic groups.
 DIABLO identifies key molecular features from multi-omics data that are associated with a phenotype of interest, such as disease or response to therapy.
 
+### 5.
+
+Attempts to detect patterns of PPI-related gastrointestinal changes have been made in different studies21,22 through linear multidimensional analysis techniques, such as Principal Com- ponent Analysis (PCA) and Multidimensional Scaling (MDS), also called Principal Coordinates Analysis (PCoA)
+

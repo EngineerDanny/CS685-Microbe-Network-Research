@@ -55,10 +55,9 @@ The goal of using multi-omics data is to achieve a deeper understanding of biolo
 Multi-omics integrative method that seeks for common information across different data types through the selection of a subset of molecular features, while discriminating between multiple phenotypic groups.
 DIABLO identifies key molecular features from multi-omics data that are associated with a phenotype of interest, such as disease or response to therapy.
 
-### 5.
-
+### 5. Nonlinear machine learning pattern recognition and bacteria-metabolite multilayer network analysis of perturbed gastric microbiome
 Attempts to detect patterns of PPI-related ga strointestinal changes have been made in different studies21,2 
-2 through linear multidimensional analysis techniques, such as Principal Com- ponent Analysis (PCA) and Multidimensional Scaling (MDS), also called Principal Coordinates Analysis (PCoA)
+2 through linear multidimensional analysis techniques, such as Principal Component Analysis (PCA) and Multidimensional Scaling (MDS), also called Principal Coordinates Analysis (PCoA)
 ![41467_2021_22135_Fig1_HTML](https://github.com/EngineerDanny/CS685-Microbe-Network-Research/assets/47421661/de65e54b-c6ff-4fc8-902b-15178aa2aec9)
 
 

@@ -57,5 +57,8 @@ DIABLO identifies key molecular features from multi-omics data that are associat
 
 ### 5.
 
-Attempts to detect patterns of PPI-related gastrointestinal changes have been made in different studies21,22 through linear multidimensional analysis techniques, such as Principal Com- ponent Analysis (PCA) and Multidimensional Scaling (MDS), also called Principal Coordinates Analysis (PCoA)
+Attempts to detect patterns of PPI-related ga strointestinal changes have been made in different studies21,2 
+2 through linear multidimensional analysis techniques, such as Principal Com- ponent Analysis (PCA) and Multidimensional Scaling (MDS), also called Principal Coordinates Analysis (PCoA)
+![41467_2021_22135_Fig1_HTML](https://github.com/EngineerDanny/CS685-Microbe-Network-Research/assets/47421661/de65e54b-c6ff-4fc8-902b-15178aa2aec9)
+
 
